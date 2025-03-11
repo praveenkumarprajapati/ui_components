@@ -1,2 +1,2 @@
-"use strict";var e=require("react/jsx-runtime");module.exports=function(){return e.jsx("button",{children:"Click me"})};
+"use strict";var t=require("react/jsx-runtime");exports.Button=function(){return t.jsx("button",{children:"Click me"})};
 //# sourceMappingURL=index.js.map
