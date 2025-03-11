@@ -1,5 +1,2 @@
-import { jsx as _jsx } from "react/jsx-runtime";
-var Button = function () {
-    return _jsx("button", { children: "Click me" });
-};
-export default Button;
+"use strict";var e=require("react/jsx-runtime");module.exports=function(){return e.jsx("button",{children:"Click me"})};
+//# sourceMappingURL=index.js.map
